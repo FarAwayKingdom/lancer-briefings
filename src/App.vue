@@ -149,7 +149,7 @@ export default {
         "ring": "KARAKORAM LINE",
         "headerTitle": "FWC RANGER",
         "headerSubtitle": "TASK FORCE",
-        "subheaderTitle": "MONITORING & ENFORCEMENT",
+        "subheaderTitle": "PATROL & DISPERSE",
         "subheaderSubtitle": "ROMERO-ECHO-ECHO-LIMA",
       },
       "options":{
