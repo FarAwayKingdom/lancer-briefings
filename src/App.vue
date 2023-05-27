@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "CENSUA",
+          "callsign": "CENUSA",
           "alias": "Eka Seitsemas",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "IPS-N",
           "frame": "Drake",
-          "mech": "Type - Worst Beat"
+          "mech": "Nisipuri Tăcute"
         },
         {
           "callsign": "Kal",
@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "planet": "CAPE SINCERE :: INSOL COAST",
+        "year": "5012u",
+        "system": "[LINSAUPRA]",
+        "gate": "KARAKORAM-MUZTAGH",
+        "ring": "KARAKORAM LINE",
+        "headerTitle": "FWC RANGER",
+        "headerSubtitle": "TASK FORCE",
+        "subheaderTitle": "MONITORING & ENFORCEMENT",
+        "subheaderSubtitle": "ROMERO-ECHO-ECHO-LIMA",
       },
       "options":{
         "eventsMarkdownPerMission": true
