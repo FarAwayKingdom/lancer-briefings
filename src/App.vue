@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "CENUSA",
           "alias": "Eka Seitsemas",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///ANDROMACHE-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "IPS-N",
           "frame": "Drake",
           "mech": "Nisipuri Tăcute"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "GUAZABARA",
           "alias": "Pelivan Dippolito",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///ANDROMACHE-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "IPS-N",
           "frame": "Nelson",
           "mech": "Scarlet Judicator"
@@ -133,12 +133,12 @@ export default {
           "mech": "Mayfly"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "callsign": "Alcatraz",
+          "alias": 'Egill Meinhardt',
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///WISSEN-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "HA",
+          "frame": "Barbarossa Mk.2",
+          "mech": "Non-Refundable Deposit"
         },
       ],
       "header": {
