@@ -97,7 +97,7 @@ export default {
           "slug": "001",
           "name": "Vacation",
           "status": "success"
-        }
+        },
         {
           "slug": "002",
           "name": "Spring Scavangers",
